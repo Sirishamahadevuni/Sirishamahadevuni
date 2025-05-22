@@ -26,10 +26,6 @@ I am a student. currently I'm Working as an Intern at EPAM Systems on python <br
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
-<!-- Tech Domains -->
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-yellow.svg?style=for-the-badge&logo=scikit-learn&logoColor=black)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%231572B6.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-%23F7931E.svg?style=for-the-badge&logo=pandas&logoColor=white)
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sirishamahadevuni&theme=dracula&hide_border=false)<br/>
