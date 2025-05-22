@@ -1,6 +1,8 @@
-# 💫 About Me:
-My Name is Shirisha Mahadevuni.<br>
-I am a student. currently I'm Working as an Intern at EPAM Systems on python <br>I would like to expand my knowledge in the field of computer science. I have build and worked on projects specializing in Python,Machine Learning, Data science,web development and java.
+### 💫 About Me:
+Hi, I'm **Shirisha Mahadevuni**, an enthusiastic and curious Computer Science student passionate about technology and innovation.  
+🌱 Currently working as a **Python Intern at EPAM Systems**.  
+💻 I build and contribute to projects involving **Python**, **Machine Learning**, **Data Science**, **Java**, and **Full-Stack Web Development**.  
+📚 I'm always eager to learn new things and expand my skills in modern tech stacks.
 
 
 ### 🚀 Languages and Tools:
